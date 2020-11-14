@@ -26,7 +26,10 @@ authenticate with your discord account and click on New Application.
 ![img](https://bitbiz.nl/screenshots/hidde/firefox_TwMbwXHWl0.png)
 
 
-Give your app some name ![img](https://bitbiz.nl/screenshots/hidde/firefox_TvnP3XJXLu.png) 
+Give your app some name 
+
+
+![img](https://bitbiz.nl/screenshots/hidde/firefox_TvnP3XJXLu.png) 
 
 and hit create.
 
