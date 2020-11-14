@@ -18,13 +18,13 @@ Let's setup a discord app now.
 Go to [the discord developer page](https://discord.com/developers/applications)
 authenticate with your discord account and click on New Application.
 
-[img](https://bitbiz.nl/screenshots/hidde/firefox_TwMbwXHWl0.png)
+![img](https://bitbiz.nl/screenshots/hidde/firefox_TwMbwXHWl0.png)
 
-Give your app some name [img](https://bitbiz.nl/screenshots/hidde/firefox_TvnP3XJXLu.png) and hit create.
+Give your app some name ![img](https://bitbiz.nl/screenshots/hidde/firefox_TvnP3XJXLu.png) and hit create.
 
-Now copy the client id [img](https://bitbiz.nl/screenshots/hidde/firefox_KWroxsGKhT.png), and then paste it on the client id field in the rpc app [img](https://bitbiz.nl/screenshots/hidde/discord-rpc-app_DtzR4Tm1ug.png).
+Now copy the client id ![img](https://bitbiz.nl/screenshots/hidde/firefox_KWroxsGKhT.png), and then paste it on the client id field in the rpc app ![img](https://bitbiz.nl/screenshots/hidde/discord-rpc-app_DtzR4Tm1ug.png).
 
-Go now back to the discord developer page, go to the Rich Presence tab and hit add image to add some images [img](https://bitbiz.nl/screenshots/hidde/firefox_zgZROSTqT6.png). Fill the names of the images in the rpc app. [img](https://bitbiz.nl/screenshots/hidde/discord-rpc-app_JVLcqftqpU.png)
+Go now back to the discord developer page, go to the Rich Presence tab and hit add image to add some images ![img](https://bitbiz.nl/screenshots/hidde/firefox_zgZROSTqT6.png). Fill the names of the images in the rpc app. ![img](https://bitbiz.nl/screenshots/hidde/discord-rpc-app_JVLcqftqpU.png)
 .
 
 Now click save. exit the rpc app and start it again.
